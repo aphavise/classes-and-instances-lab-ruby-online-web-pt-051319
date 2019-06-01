@@ -1,7 +1,5 @@
 class Person 
-  
-  
-  l
+
   
   
 end
