@@ -3,10 +3,10 @@ class Dog
 def fido 
 end
 
-def fido 
+def snoopy 
 end
 
-def fido 
+def lassie
 end
 
 
